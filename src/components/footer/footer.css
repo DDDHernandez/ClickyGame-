@@ -1,0 +1,12 @@
+.footer {
+   text-align: center;
+   background:linear-gradient(141deg, rgb(34, 82, 82) 25%, rgb(11, 160, 160) 40%, rgb(4, 182, 182) 55%);
+    justify-content: center;
+    width: 105%;
+  }
+  
+  #footerTitle {
+    text-align: center;
+    width: 100%;
+    background-color:linear-gradient(141deg, rgb(34, 82, 82) 25%, rgb(11, 160, 160) 40%, rgb(4, 182, 182) 55%);
+  }
